@@ -9,3 +9,5 @@ This was the capstone project for the Google Data Analytics certification. I had
   <li>Visual Studio Code</li>
   <li>GitHub Codespaces</li>
 </ul>
+
+Python libraries: numpy, pandas, datetime, re, scikit-learn, missingno, matplotlib, seaborn
