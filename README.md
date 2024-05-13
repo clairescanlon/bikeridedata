@@ -1,5 +1,5 @@
 # Cyclistic Bike Ride Project
-Currently In Progress
+Currently In Progress </br>  </br>
 This was the capstone project for the Google Data Analytics certification. I had many computer issues working on the original project, so I decided to re-do this project.
 
 ## Tech Stack
