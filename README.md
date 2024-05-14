@@ -13,5 +13,5 @@ This was the capstone project for the Google Data Analytics certification. I had
 Python libraries: numpy, pandas, datetime, re, scikit-learn, missingno, matplotlib, seaborn
 <br/>
 <br/>
-## Change Log
+## Documents for Project
 <p><a href="https://github.com/clairescanlon/bikeridedata/wiki/Changelog"> Changelog for Project </a></p>
