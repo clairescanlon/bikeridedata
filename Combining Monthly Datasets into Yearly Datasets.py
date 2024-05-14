@@ -36,8 +36,8 @@ def merge_csv_files(dir_path, output_file_path):
     logging.info(f"Successfully saved the combined DataFrame to {output_file_path}")
 
 # Define the directory path and output file path
-dir_path = 'C:/Users/clair/OneDrive/Desktop/Bike Data/Datasets/2018/'
-output_file_path = 'C:/Users/clair/OneDrive/Desktop/Bike Data/Datasets/2018.csv'
+dir_path = 'C:/Users/filepath/'
+output_file_path = 'C:/Users/filepath/2018.csv'
 
 # Call the function
 merge_csv_files(dir_path, output_file_path)
