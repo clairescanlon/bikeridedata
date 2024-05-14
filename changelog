@@ -1,0 +1,9 @@
+# Changelog
+
+## Beginning The Project (5/13/2024)
+<ul>
+  <li> Downloaded monthly datasets from Amazon S3 bucket (https://divvy-tripdata.s3.amazonaws.com/index.html)</li>
+  <li>Categorized monthly datasets into yearly folders </li>
+  <li> Used Python code using Visual Studio Code to merge monthly datasets into yearly datasets, then saved each yearly dataset into a new .csv file. </li>
+</ul>
+
