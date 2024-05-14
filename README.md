@@ -15,3 +15,6 @@ Python libraries: numpy, pandas, datetime, re, scikit-learn, missingno, matplotl
 <br/>
 ## Documents for Project
 <p><a href="https://github.com/clairescanlon/bikeridedata/wiki/Changelog"> Changelog </a></p>
+<p><a href="https://github.com/clairescanlon/bikeridedata/wiki/Data-Dictionary"> Data Dictionary </a></p>
+
+
