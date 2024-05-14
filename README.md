@@ -14,4 +14,4 @@ Python libraries: numpy, pandas, datetime, re, scikit-learn, missingno, matplotl
 <br/>
 <br/>
 ## Change Log
-<p><a href="https://github.com/clairescanlon/bikeridedata.wiki.git"> Changelog for Project </a></p>
+<p><a href="https://github.com/clairescanlon/bikeridedata/wiki/Changelog"> Changelog for Project </a></p>
