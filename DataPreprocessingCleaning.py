@@ -1,7 +1,4 @@
 import os
-import rclone
 
-os.system('pip install rclone')
 os.system('rclone config')
-os.system('rclone copy /content/drive/MyDrive folder/filepath/')
-
+os.system(r'rclone copy c:\Users\name\rclone.exe destination_path')
