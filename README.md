@@ -8,6 +8,7 @@ This was the capstone project for the Google Data Analytics certification. I had
   <li>Python</li>
   <li>Visual Studio Code</li>
   <li>GitHub Codespaces</li>
+  <li>Big Query</li>
 </ul>
 
 Python libraries: numpy, pandas, datetime, re, scikit-learn, missingno, matplotlib, seaborn
